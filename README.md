@@ -1,1 +1,1 @@
-# chestboard
+# chessboard
